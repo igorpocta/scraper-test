@@ -2,3 +2,5 @@
 2022-07-31 12:42:59,058 - __main__ - INFO - Weather in Berlin: 26.04
 2022-07-31 18:04:27,337 - __main__ - INFO - Token value: TEST1234
 2022-07-31 18:04:27,807 - __main__ - INFO - Weather in Karlovy Vary: 23.36
+2022-07-31 20:04:31,750 - __main__ - INFO - Token value: TEST1234
+2022-07-31 20:04:32,071 - __main__ - INFO - Weather in Karlovy Vary: 20.5
