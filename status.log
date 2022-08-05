@@ -104,3 +104,5 @@
 2022-08-04 22:04:35,897 - __main__ - INFO - Weather in Karlovy Vary: 22.65
 2022-08-05 00:20:22,271 - __main__ - INFO - Token value: TEST1234
 2022-08-05 00:20:22,717 - __main__ - INFO - Weather in Karlovy Vary: 22.14
+2022-08-05 02:50:17,808 - __main__ - INFO - Token value: TEST1234
+2022-08-05 02:50:18,292 - __main__ - INFO - Weather in Karlovy Vary: 20.23
